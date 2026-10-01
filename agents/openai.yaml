@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 324"
+  short_description: "微物心象：上半保留原照，下半把主体收成承载巨大情绪的微小手作物件"
+  default_prompt: "Use $xxd-panel-324 to transform my photograph following the complete canonical source brief."
